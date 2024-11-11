@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Anshif</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/animated-man-computer-coding-nae6mec378lsg1i3.html")
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/animated-man-computer-coding-nae6mec378lsg1i3.html">
 
 - 🌱 I’m currently learning **REACT,MERN STACK**
 
